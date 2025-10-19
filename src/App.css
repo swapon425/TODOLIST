@@ -22,6 +22,7 @@ body {
   border-radius: 16px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   
+  
 }
 
 
@@ -64,6 +65,7 @@ h2 {
   list-style: none;
   padding: 0;
   text-align: left;
+  color: #000000;
 }
 
 .todo-item {
@@ -153,7 +155,7 @@ h2 {
 
 .done {
   text-decoration: line-through;
-  color: gray;
+  color: #000000;
 }
 
 
@@ -227,5 +229,3 @@ h2 {
   background-color: #4caf50;
   border-color: #4caf50;
 }
-
-
